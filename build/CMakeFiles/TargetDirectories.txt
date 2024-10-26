@@ -1,0 +1,3 @@
+D:/dirs/Houdini_CPP/FirstPlugin/SimpleNode/build/CMakeFiles/SimpleAttribute.dir
+D:/dirs/Houdini_CPP/FirstPlugin/SimpleNode/build/CMakeFiles/ALL_BUILD.dir
+D:/dirs/Houdini_CPP/FirstPlugin/SimpleNode/build/CMakeFiles/ZERO_CHECK.dir
